@@ -1,6 +1,6 @@
 ### ruby-progressbar
 ---
-https://github.com/takagotch/ruby-progressbar
+https://github.com/jfelchner/ruby-progressbar
 
 ```
 ```
